@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sorting
+|  |
+| ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
