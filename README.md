@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Number Theory
 |  |
@@ -108,10 +110,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
