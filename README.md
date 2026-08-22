@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1158-market-analysis-i) |
 | [1251-average-selling-price](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1251-average-selling-price) |
 | [1484-group-sold-products-by-the-date](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1527-patients-with-a-condition](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1693-daily-leads-and-partners) |
