@@ -2,4 +2,3 @@
 Select score ,
 DENSE_RANK() OVER(ORDER BY score DESC) as 'rank'
 from SCORES
-Order by score DESC
