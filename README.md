@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
