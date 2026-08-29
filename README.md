@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
 | [1386-cinema-seat-allocation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
