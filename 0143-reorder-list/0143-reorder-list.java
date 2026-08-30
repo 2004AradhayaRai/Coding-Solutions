@@ -15,23 +15,39 @@ class Solution {
             return ;
         }
 
-        ListNode curr=head;
+        ListNode slow=head;
+        ListNode fast=head;
 
-        while(curr!=null && curr.next!=null){
-            ListNode prev=curr;
-            ListNode tmp=curr.next;
-
-            while(tmp.next!=null){
-                prev=tmp;
-                tmp=tmp.next;
-            }
-            prev.next=null;
-
-            tmp.next=curr.next;
-            curr.next=tmp;
-
-            curr=tmp.next;
-
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
+        ListNode mid=slow;
+
+        ListNode curr=mid.next;
+        ListNode next=null;
+        ListNode prev=null;
+
+        while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        } 
+        mid.next=null;
+
+        ListNode left=head;
+        ListNode right=prev;
+
+        while(right!=null){
+           ListNode tmp=left.next;
+           ListNode tmp2=right.next;
+           left.next=right;
+           right.next=tmp;
+
+           left=tmp;
+           right=tmp2;
+        }
+
     }
 }
