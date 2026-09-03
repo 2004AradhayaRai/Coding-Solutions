@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0148-sort-list) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0205-isomorphic-strings) |
