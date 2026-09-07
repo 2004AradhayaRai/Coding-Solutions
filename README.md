@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
+| [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1980-find-unique-binary-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
