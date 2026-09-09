@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0876-middle-of-the-linked-list) |
