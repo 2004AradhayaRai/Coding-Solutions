@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1980-find-unique-binary-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
