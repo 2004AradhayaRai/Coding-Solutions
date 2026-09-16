@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3407-substring-matching-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3407-substring-matching-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [3407-substring-matching-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3407-substring-matching-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
