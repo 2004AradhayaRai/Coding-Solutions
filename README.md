@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -379,21 +380,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 | [3407-substring-matching-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3407-substring-matching-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
