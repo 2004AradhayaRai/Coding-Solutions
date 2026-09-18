@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0115-distinct-subsequences) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
