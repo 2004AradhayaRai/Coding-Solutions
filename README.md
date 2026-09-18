@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
 | [2427-number-of-common-factors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0459-repeated-substring-pattern) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
