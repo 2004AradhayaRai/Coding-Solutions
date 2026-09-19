@@ -22,15 +22,7 @@ class Solution {
             st.pop();
             cnt++;
         }
-        if (j>=cnt || cnt>=j) {
-            return j+cnt;
-        }
-
-        else if(j>0) {
-            return j;
-        }
-        return cnt;
-
+        return j+cnt;
         
 
     }
