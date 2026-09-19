@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0459-repeated-substring-pattern) |
