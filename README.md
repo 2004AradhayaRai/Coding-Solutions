@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
 | [1386-cinema-seat-allocation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1980-find-unique-binary-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2295-replace-elements-in-an-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1980-find-unique-binary-string) |
