@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Divide and Conquer
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
