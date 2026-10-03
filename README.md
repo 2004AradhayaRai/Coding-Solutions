@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
+| [0845-longest-mountain-in-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
+| [0845-longest-mountain-in-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1386-cinema-seat-allocation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [2427-number-of-common-factors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0845-longest-mountain-in-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
