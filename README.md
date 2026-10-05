@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0740-delete-and-earn) |
 | [0845-longest-mountain-in-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0709-to-lower-case) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
