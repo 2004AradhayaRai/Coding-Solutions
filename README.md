@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
