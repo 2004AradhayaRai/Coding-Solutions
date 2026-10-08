@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
 | [2427-number-of-common-factors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2427-number-of-common-factors) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0561-array-partition) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
