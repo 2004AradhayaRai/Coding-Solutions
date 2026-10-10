@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
