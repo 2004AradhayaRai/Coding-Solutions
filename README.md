@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0415-add-strings) |
+| [1360-number-of-days-between-two-dates](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2427-number-of-common-factors](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1360-number-of-days-between-two-dates](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
