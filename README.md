@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0412-fizz-buzz) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0213-house-robber-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
