@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0456-132-pattern) |
 | [0525-contiguous-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0561-array-partition) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0456-132-pattern) |
 | [2487-remove-nodes-from-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0456-132-pattern) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -551,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
