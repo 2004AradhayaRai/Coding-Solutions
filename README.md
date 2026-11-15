@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0198-house-robber) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/2004AradhayaRai/Coding-Solutions/tree/master/0678-valid-parenthesis-string) |
